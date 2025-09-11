@@ -12,4 +12,4 @@
 9. Update the dvc.yaml
 
 ECR repo:
-248189931119.dkr.ecr.eu-north-1.amazonaws.com/tuber
+248189931119.dkr.ecr.eu-north-1.amazonaws.com/tuber# Trigger deployment 
