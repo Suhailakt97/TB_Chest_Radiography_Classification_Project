@@ -45,6 +45,8 @@ class Training:
             shuffle=False,
             **dataflow_kwargs
         )
+        print("Class indices:", self.train_generator.class_indices)
+
 
         if self.config.params_is_augmentation:
             train_datagenerator = tf.keras.preprocessing.image.ImageDataGenerator(
