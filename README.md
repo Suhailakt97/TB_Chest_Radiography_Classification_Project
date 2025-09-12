@@ -11,5 +11,5 @@
 8. Update the main.py
 9. Update the dvc.yaml
 
-ecr repo:
+ECR repo: 
 248189931119.dkr.ecr.eu-north-1.amazonaws.com/tuber
